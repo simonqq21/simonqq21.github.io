@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Que</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Simon Que</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Mar 2025 11:03:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academics</title>
+      <link>http://localhost:1313/academics/academics/</link>
+      <pubDate>Thu, 27 Mar 2025 11:03:55 +0800</pubDate>
+      <guid>http://localhost:1313/academics/academics/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Senior High School - De La Salle University Manila - Integrated School&#xA;STEM Academic Track&#xA;Silver&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Undergraduate - De La Salle University Manila&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>X</title>
+      <link>http://localhost:1313/projects/x/</link>
+      <pubDate>Tue, 25 Feb 2025 08:47:55 +0800</pubDate>
+      <guid>http://localhost:1313/projects/x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C</title>
+      <link>http://localhost:1313/blog/c/</link>
+      <pubDate>Tue, 25 Feb 2025 08:46:21 +0800</pubDate>
+      <guid>http://localhost:1313/blog/c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>B</title>
+      <link>http://localhost:1313/blog/b/</link>
+      <pubDate>Tue, 25 Feb 2025 08:46:18 +0800</pubDate>
+      <guid>http://localhost:1313/blog/b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A</title>
+      <link>http://localhost:1313/blog/a/</link>
+      <pubDate>Tue, 25 Feb 2025 08:46:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Mon, 24 Feb 2025 13:52:13 +0800</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>&lt;p&gt;Simon Justin C. Que&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Click me&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Hello, I am Simon! I am a freelance backend and microcontroller systems developer. I am motivated by developing and optimizing computer systems to work seamlessly and efficiently. I am primarily interested in microcontrollers, IoT, electronics, automation, and robotics, but am also active in learning the latest advances and best practices in software development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
