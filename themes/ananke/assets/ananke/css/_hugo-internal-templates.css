@@ -2,7 +2,9 @@
 .pagination {
   margin: 3rem 0;
 }
-
+.content {
+  color: aquamarine;
+}
 .pagination li {
   display: inline-block;
   margin-right: .375rem;

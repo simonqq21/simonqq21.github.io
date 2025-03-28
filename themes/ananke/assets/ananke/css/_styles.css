@@ -1,5 +1,9 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
+.content {
+  color: aquamarine;
+}
+
 #TableOfContents ul li {
   margin-bottom: 1em;
 }

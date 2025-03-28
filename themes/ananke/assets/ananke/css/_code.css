@@ -4,7 +4,9 @@ pre, .pre  {
   overflow:   scroll;
 }
 
-
+.content {
+  color: aquamarine;
+}
 pre  code {
   display: block;
   padding: 1.5em 1.5em;

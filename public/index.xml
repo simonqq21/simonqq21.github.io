@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simon Que</title>
+    <title>About Me on Simon Que</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Simon Que</description>
+    <description>Recent content in About Me on Simon Que</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 11:03:55 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 17:43:37 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Academics</title>
-      <link>http://localhost:1313/academics/academics/</link>
-      <pubDate>Thu, 27 Mar 2025 11:03:55 +0800</pubDate>
-      <guid>http://localhost:1313/academics/academics/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Senior High School - De La Salle University Manila - Integrated School&#xA;STEM Academic Track&#xA;Silver&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Undergraduate - De La Salle University Manila&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>Work Experience</title>
+      <link>http://localhost:1313/work-experience/</link>
+      <pubDate>Thu, 27 Mar 2025 17:43:37 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT) (September 2023 - March 2024)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Performed research on electro-encephalogram (EEG) signal processing for machine control&lt;/li&gt;&#xA;&lt;li&gt;Worked on the ESP32 implementation and Python API for controlling a motorized wheelchair wirelessly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Rooftop BIM (April 2024 - January 2025)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Worked on the backend and database of their user account management web application.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mobility Vision Plus (February 2025 - present)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Currently on the traffic monitoring video AI pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>X</title>
-      <link>http://localhost:1313/projects/x/</link>
-      <pubDate>Tue, 25 Feb 2025 08:47:55 +0800</pubDate>
-      <guid>http://localhost:1313/projects/x/</guid>
-      <description></description>
+      <title>Academics</title>
+      <link>http://localhost:1313/academics/</link>
+      <pubDate>Thu, 27 Mar 2025 11:03:55 +0800</pubDate>
+      <guid>http://localhost:1313/academics/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Senior High School&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;De La Salle University Manila - Integrated School&lt;/strong&gt; (2017-2019)&lt;/li&gt;&#xA;&lt;li&gt;STEM Academic Track&lt;/li&gt;&#xA;&lt;li&gt;Silver Award&lt;/li&gt;&#xA;&lt;li&gt;Thesis research topic: &lt;em&gt;&amp;ldquo;A Comparison Study Between Dual Stationary Photovoltaic Panels and Single-Axis Solar Tracking Photovoltaic Panel Power Systems in Maximum Power Point Tracking&amp;rdquo;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;2019 DLSU Research Congress Presenter&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Undergraduate&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;De La Salle University Manila&lt;/strong&gt; (2019-2023)&lt;/li&gt;&#xA;&lt;li&gt;B.S. Computer Science Major in Computer Systems Engineering (CSE)&lt;/li&gt;&#xA;&lt;li&gt;Magna Cum Laude&lt;/li&gt;&#xA;&lt;li&gt;3.697 GPA&lt;/li&gt;&#xA;&lt;li&gt;Thesis research topic: &lt;em&gt;&amp;ldquo;Semi-Automated Plant Growth Monitoring System (PGMS) for Cherry Tomatoes&amp;rdquo;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Most Outstanding Thesis Award - Gold&lt;/li&gt;&#xA;&lt;li&gt;Additional published paper: &lt;em&gt;&amp;ldquo;DLSU-Intelligent Biological and Agricultural Systems (BLAST)&amp;rdquo;&lt;/em&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;worked on the hardware and IoT data collection system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Graduate&lt;/p&gt;</description>
     </item>
     <item>
       <title>C</title>
@@ -41,14 +41,7 @@
       <link>http://localhost:1313/blog/a/</link>
       <pubDate>Tue, 25 Feb 2025 08:46:08 +0800</pubDate>
       <guid>http://localhost:1313/blog/a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about-me/</link>
-      <pubDate>Mon, 24 Feb 2025 13:52:13 +0800</pubDate>
-      <guid>http://localhost:1313/about-me/</guid>
-      <description>&lt;p&gt;Simon Justin C. Que&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Click me&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Hello, I am Simon! I am a freelance backend and microcontroller systems developer. I am motivated by developing and optimizing computer systems to work seamlessly and efficiently. I am primarily interested in microcontrollers, IoT, electronics, automation, and robotics, but am also active in learning the latest advances and best practices in software development.&lt;/p&gt;</description>
+      <description>This is a short summary of &amp;lsquo;a&amp;rsquo;.</description>
     </item>
   </channel>
 </rss>

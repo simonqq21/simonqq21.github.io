@@ -1,0 +1,12 @@
+
+{{ define "main" }} 
+<link rel="stylesheet" href="css/style.css">
+  <div class="content-wrapper">
+    <h1>{{ .Title }}</h1>
+    <p>Description</p>
+    <p>{{ .Params.description }}</p>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}

@@ -27,7 +27,7 @@
       <link>http://localhost:1313/blog/a/</link>
       <pubDate>Tue, 25 Feb 2025 08:46:08 +0800</pubDate>
       <guid>http://localhost:1313/blog/a/</guid>
-      <description></description>
+      <description>This is a short summary of &amp;lsquo;a&amp;rsquo;.</description>
     </item>
   </channel>
 </rss>
