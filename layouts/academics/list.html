@@ -1,0 +1,23 @@
+
+{{ define "main" }}
+    
+    {{/*  <style>
+        span {
+            color: blue;
+            }
+    </style>  */}}
+    <h1>{{ .Title }}</h1> 
+    <ol>
+        {{ range .Pages.ByDate.Reverse }}
+            <li>
+                <h2>{{ .Title }}</h2>
+                <div>
+                    <span class="span-spacing">{{ .Params.years }}</span>
+                    <span class="span-spacing">{{ .Params.institution }}</span>
+                    <p>{{ .Summary }}</p>
+                </div>
+            </li>
+        {{ end }}
+    </ol>
+    
+{{ end }}

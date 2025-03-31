@@ -1,7 +1,8 @@
 baseURL = 'https://simonqq21.github.io'
 languageCode = 'en-us'
 title = 'Simon Que' 
-theme='' 
+theme='ananke' 
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

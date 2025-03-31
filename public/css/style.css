@@ -1,3 +1,11 @@
-.content {
+/* .content {
    color: aquamarine;
+}
+
+span {
+   color: red;
+} */
+
+.span-spacing {
+   margin-right: 5vw;
 }
