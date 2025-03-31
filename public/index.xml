@@ -6,15 +6,8 @@
     <description>Recent content in About Me on Simon Que</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 17:43:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 08:46:21 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Work Experience</title>
-      <link>http://localhost:1313/work-experience/</link>
-      <pubDate>Thu, 27 Mar 2025 17:43:37 +0800</pubDate>
-      <guid>http://localhost:1313/work-experience/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT) (September 2023 - March 2024)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Performed research on electro-encephalogram (EEG) signal processing for machine control&lt;/li&gt;&#xA;&lt;li&gt;Worked on the ESP32 implementation and Python API for controlling a motorized wheelchair wirelessly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Rooftop BIM (April 2024 - January 2025)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Worked on the backend and database of their user account management web application.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Mobility Vision Plus (February 2025 - present)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Currently on the traffic monitoring video AI pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
     <item>
       <title>C</title>
       <link>http://localhost:1313/blog/c/</link>
@@ -37,6 +30,13 @@
       <description>This is a short summary of &amp;lsquo;a&amp;rsquo;.</description>
     </item>
     <item>
+      <title>Graduate</title>
+      <link>http://localhost:1313/academics/proposed_graduate/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/proposed_graduate/</guid>
+      <description>asdasddad</description>
+    </item>
+    <item>
       <title>Undergraduate</title>
       <link>http://localhost:1313/academics/undergraduate/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -48,13 +48,6 @@
       <link>http://localhost:1313/academics/senior_high_school/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/senior_high_school/</guid>
-      <description>asdasddad</description>
-    </item>
-    <item>
-      <title>Graduate</title>
-      <link>http://localhost:1313/academics/proposed_graduate/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academics/proposed_graduate/</guid>
       <description>asdasddad</description>
     </item>
   </channel>

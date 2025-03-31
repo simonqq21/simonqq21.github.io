@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/work-experience/</loc>
+    <lastmod>2025-03-31T12:09:28+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-03-31T10:49:28+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/academics/</loc>
     <lastmod>2025-03-31T10:48:59+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/work-experience/</loc>
-    <lastmod>2025-03-27T17:43:37+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/c/</loc>
     <lastmod>2025-02-25T08:46:21+08:00</lastmod>
@@ -23,14 +23,14 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-24T13:52:13+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/academics/proposed_graduate/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/academics/undergraduate/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/academics/senior_high_school/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/academics/proposed_graduate/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

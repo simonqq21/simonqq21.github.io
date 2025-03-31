@@ -6,6 +6,12 @@ span {
    color: blue;
 } */
 
+.main {
+   margin: 1vw;
+}
+ol {
+   list-style: none;
+}
 .span-spacing {
    margin-right: 0.8vw;
 }
