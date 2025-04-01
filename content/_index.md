@@ -1,7 +1,8 @@
 +++
 date = '2025-02-24T13:52:13+08:00'
 draft = false
-title = 'About Me'
+title = 'About Me' 
+type = 'single'
 +++
 
 <!-- # About Me -->
