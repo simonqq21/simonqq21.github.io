@@ -13,22 +13,18 @@
                 <li>
                     <h2>{{ .Title }}</h2>
                     <div>
-                        <div>
-                            <span class="span-spacing">{{ .Params.years }}</span>
-                            <span class="span-spacing">-</span>
-                            <span class="span-spacing">{{ .Params.institution }}</span>
-                        </div>
-                        <p>GPA: {{ .Params.gpa }}</p>
-                        {{ range .Params.awards }}
-                            <p>
-                                <span>{{ .name }}</span>
-                                {{ if .topic }}
-                                    <span> - {{ .topic }}</span>
-                                {{ end }}
-                            </p>       
-                        {{ end }}
-                        <p>{{ .Summary }}</p>
+                        <span class="span-spacing">{{ .Params.years }}</span>
+                        <span class="span-spacing">-</span>
+                        <span class="span-spacing">{{ .Params.institution }}</span>
                     </div>
+                    {{ range .Params.awards }}
+                        <p>
+                            <span>{{ .name }}</span>
+                            {{ if .details }}
+                                <span> - {{ .details }}</span>
+                            {{ end }}
+                        </p>       
+                    {{ end }}
                 </li>
             {{ end }}
         </ol>

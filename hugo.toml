@@ -15,13 +15,31 @@ theme='ananke'
     weight = 1
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "academics"
+    name = "Academics"
+    url = "/academics/"
     weight = 2
+
+  [[menu.main]]
+    identifier = "work-experience"
+    name = "Work Experience"
+    url = "/work-experience/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "personal-projects"
+    name = "Personal Projects"
+    url = "/personal-projects/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 5
