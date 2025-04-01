@@ -6,7 +6,28 @@
     <description>Recent content in Work Experience on Simon Que</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 11:49:53 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/work-experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobility Vision Plus</title>
+      <link>http://localhost:1313/work-experience/movi/</link>
+      <pubDate>Wed, 15 Jan 2025 11:49:53 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/movi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rooftop BIM Hong Kong</title>
+      <link>http://localhost:1313/work-experience/rtbim/</link>
+      <pubDate>Mon, 01 Apr 2024 11:49:43 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/rtbim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT)</title>
+      <link>http://localhost:1313/work-experience/ibeht/</link>
+      <pubDate>Fri, 01 Sep 2023 11:49:48 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/ibeht/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

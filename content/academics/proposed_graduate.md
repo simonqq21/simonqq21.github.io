@@ -1,5 +1,5 @@
 ---
-title: "Graduate"
+title: "Tentative Graduate Studies"
 institution: "National Yang Ming Chiao Tung University Taiwan"
 years: "2025 - 2027"
 date: 2024-08-01

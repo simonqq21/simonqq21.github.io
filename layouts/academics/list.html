@@ -11,12 +11,13 @@
         <ol>
             {{ range .Pages.ByDate }}
                 <li>
-                    <h2>{{ .Title }}</h2>
-                    <div>
-                        <span class="span-spacing">{{ .Params.years }}</span>
-                        <span class="span-spacing">-</span>
-                        <span class="span-spacing">{{ .Params.institution }}</span>
-                    </div>
+                    <h2>
+                        <span>{{ .Title }}</span>
+                        <span> - </span>
+                        <span>{{ .Params.institution }}</span>
+                    </h2>
+                    
+                    <span class="span-spacing">{{ .Params.years }}</span>
                     {{ range .Params.awards }}
                         <p>
                             <span>{{ .name }}</span>

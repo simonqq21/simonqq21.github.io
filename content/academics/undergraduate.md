@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate"
+title: "Undergraduate Studies"
 institution: "De La Salle University Manila"
 years: "2019 - 2023"
 awards:

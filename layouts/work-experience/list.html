@@ -1,0 +1,20 @@
+{{ define "main" }}
+    <div class="main">
+        <h1>{{ .Title }}</h1>  
+        <ol>
+            {{ range .Pages.ByDate}} 
+                <li>
+                    <div>
+                        <h2>
+                            <span>{{ .Title }}</span>
+                        </h2>
+                        <span class="span-spacing">{{ .Params.timespan }}</span> 
+                        {{ range .Params.roles }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </li>
+            {{ end }}
+        </ol>
+    </div>
+{{ end }}

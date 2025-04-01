@@ -9,14 +9,14 @@
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Graduate</title>
+      <title>Tentative Graduate Studies</title>
       <link>http://localhost:1313/academics/proposed_graduate/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/proposed_graduate/</guid>
       <description></description>
     </item>
     <item>
-      <title>Undergraduate</title>
+      <title>Undergraduate Studies</title>
       <link>http://localhost:1313/academics/undergraduate/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/undergraduate/</guid>
