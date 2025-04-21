@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal-Projects on Simon Que</title>
+    <title>All Personal-Projects - Simon Que</title>
     <link>http://localhost:1313/personal-projects/</link>
-    <description>Recent content in Personal-Projects on Simon Que</description>
-    <generator>Hugo</generator>
+    <description>Simon Que</description>
+    <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2025 11:52:03 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/personal-projects/index.xml" rel="self" type="application/rss+xml" />
@@ -13,35 +13,35 @@
       <link>http://localhost:1313/personal-projects/dlsu-blast/</link>
       <pubDate>Tue, 01 Apr 2025 11:52:03 +0800</pubDate>
       <guid>http://localhost:1313/personal-projects/dlsu-blast/</guid>
-      <description></description>
+      <description>Dlsu Blast</description>
     </item>
     <item>
       <title>Thesis</title>
       <link>http://localhost:1313/personal-projects/thesis/</link>
       <pubDate>Tue, 01 Apr 2025 11:51:57 +0800</pubDate>
       <guid>http://localhost:1313/personal-projects/thesis/</guid>
-      <description></description>
+      <description>Thesis</description>
     </item>
     <item>
       <title>Wifi Irrigation Controller</title>
       <link>http://localhost:1313/personal-projects/wifi-irrigation-controller/</link>
       <pubDate>Tue, 01 Apr 2025 11:51:40 +0800</pubDate>
       <guid>http://localhost:1313/personal-projects/wifi-irrigation-controller/</guid>
-      <description></description>
+      <description>Wifi Irrigation Controller</description>
     </item>
     <item>
       <title>Smart Wifi Relay</title>
       <link>http://localhost:1313/personal-projects/smart-wifi-relay/</link>
       <pubDate>Tue, 01 Apr 2025 11:51:25 +0800</pubDate>
       <guid>http://localhost:1313/personal-projects/smart-wifi-relay/</guid>
-      <description></description>
+      <description>Smart Wifi Relay</description>
     </item>
     <item>
       <title>Wifi Car</title>
       <link>http://localhost:1313/personal-projects/wifi-car/</link>
       <pubDate>Tue, 01 Apr 2025 11:51:07 +0800</pubDate>
       <guid>http://localhost:1313/personal-projects/wifi-car/</guid>
-      <description></description>
+      <description>Wifi Car</description>
     </item>
     <item>
       <title>Centralized Bicycle Light</title>

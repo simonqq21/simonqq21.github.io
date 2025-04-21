@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Simon Que</title>
+    <title>All Categories - Simon Que</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Simon Que</description>
-    <generator>Hugo</generator>
+    <description>Simon Que</description>
+    <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
     <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

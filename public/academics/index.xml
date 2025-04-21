@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academics on Simon Que</title>
+    <title>Academics - Simon Que</title>
     <link>http://localhost:1313/academics/</link>
-    <description>Recent content in Academics on Simon Que</description>
-    <generator>Hugo</generator>
+    <description>Simon Que</description>
+    <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/academics/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>http://localhost:1313/academics/proposed_graduate/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/proposed_graduate/</guid>
-      <description></description>
+      <description>Tentative Graduate Studies</description>
     </item>
     <item>
       <title>Undergraduate Studies</title>
       <link>http://localhost:1313/academics/undergraduate/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/undergraduate/</guid>
-      <description></description>
+      <description>Undergraduate Studies</description>
     </item>
     <item>
       <title>Senior High School</title>
       <link>http://localhost:1313/academics/senior_high_school/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/academics/senior_high_school/</guid>
-      <description></description>
+      <description>Senior High School</description>
     </item>
   </channel>
 </rss>

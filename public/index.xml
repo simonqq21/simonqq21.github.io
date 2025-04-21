@@ -1,124 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on Simon Que</title>
+    <title>Simon Que</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in About Me on Simon Que</description>
-    <generator>Hugo</generator>
+    <description>Simon Que</description>
+    <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2025 01:22:16 +0800</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Wed, 02 Apr 2025 01:22:16 +0800</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Contact me at +639608407980&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dlsu Blast</title>
-      <link>http://localhost:1313/personal-projects/dlsu-blast/</link>
-      <pubDate>Tue, 01 Apr 2025 11:52:03 +0800</pubDate>
-      <guid>http://localhost:1313/personal-projects/dlsu-blast/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thesis</title>
-      <link>http://localhost:1313/personal-projects/thesis/</link>
-      <pubDate>Tue, 01 Apr 2025 11:51:57 +0800</pubDate>
-      <guid>http://localhost:1313/personal-projects/thesis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wifi Irrigation Controller</title>
-      <link>http://localhost:1313/personal-projects/wifi-irrigation-controller/</link>
-      <pubDate>Tue, 01 Apr 2025 11:51:40 +0800</pubDate>
-      <guid>http://localhost:1313/personal-projects/wifi-irrigation-controller/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Smart Wifi Relay</title>
-      <link>http://localhost:1313/personal-projects/smart-wifi-relay/</link>
-      <pubDate>Tue, 01 Apr 2025 11:51:25 +0800</pubDate>
-      <guid>http://localhost:1313/personal-projects/smart-wifi-relay/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wifi Car</title>
-      <link>http://localhost:1313/personal-projects/wifi-car/</link>
-      <pubDate>Tue, 01 Apr 2025 11:51:07 +0800</pubDate>
-      <guid>http://localhost:1313/personal-projects/wifi-car/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>C</title>
-      <link>http://localhost:1313/blog/c/</link>
-      <pubDate>Tue, 25 Feb 2025 08:46:21 +0800</pubDate>
-      <guid>http://localhost:1313/blog/c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>B</title>
-      <link>http://localhost:1313/blog/b/</link>
-      <pubDate>Tue, 25 Feb 2025 08:46:18 +0800</pubDate>
-      <guid>http://localhost:1313/blog/b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A</title>
-      <link>http://localhost:1313/blog/a/</link>
-      <pubDate>Tue, 25 Feb 2025 08:46:08 +0800</pubDate>
-      <guid>http://localhost:1313/blog/a/</guid>
-      <description>This is a short summary of &amp;lsquo;a&amp;rsquo;.</description>
-    </item>
-    <item>
-      <title>Centralized Bicycle Light</title>
-      <link>http://localhost:1313/personal-projects/centralized-bicycle-light/</link>
-      <pubDate>Mon, 24 Feb 2025 13:52:13 +0800</pubDate>
-      <guid>http://localhost:1313/personal-projects/centralized-bicycle-light/</guid>
-      <description>This is my bike light. It is very bright and lasts very long. Other road users can now see me easier lol</description>
-    </item>
-    <item>
-      <title>Mobility Vision Plus</title>
-      <link>http://localhost:1313/work-experience/movi/</link>
-      <pubDate>Wed, 15 Jan 2025 11:49:53 +0800</pubDate>
-      <guid>http://localhost:1313/work-experience/movi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tentative Graduate Studies</title>
-      <link>http://localhost:1313/academics/proposed_graduate/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academics/proposed_graduate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rooftop BIM Hong Kong</title>
-      <link>http://localhost:1313/work-experience/rtbim/</link>
-      <pubDate>Mon, 01 Apr 2024 11:49:43 +0800</pubDate>
-      <guid>http://localhost:1313/work-experience/rtbim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT)</title>
-      <link>http://localhost:1313/work-experience/ibeht/</link>
-      <pubDate>Fri, 01 Sep 2023 11:49:48 +0800</pubDate>
-      <guid>http://localhost:1313/work-experience/ibeht/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Undergraduate Studies</title>
-      <link>http://localhost:1313/academics/undergraduate/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academics/undergraduate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Senior High School</title>
-      <link>http://localhost:1313/academics/senior_high_school/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academics/senior_high_school/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -5,4 +5,6 @@ title = 'Contact'
 type= 'index'
 +++
 
-Contact me at +639608407980
+Contact me at:
+Mobile phone: +639608407980
+Email: ques86225@gmail.com
