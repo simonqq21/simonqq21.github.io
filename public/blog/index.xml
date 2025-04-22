@@ -4,7 +4,7 @@
     <title>Blog - Simon Que</title>
     <link>http://localhost:1313/blog/</link>
     <description>Simon Que</description>
-    <generator>Hugo 0.146.6 &amp; FixIt v0.3.19-c2dc17e9</generator>
+    <generator>Hugo 0.146.6 &amp; FixIt v0.3.19</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Feb 2025 08:46:21 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
