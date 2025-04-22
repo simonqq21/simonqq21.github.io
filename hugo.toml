@@ -7,38 +7,38 @@ theme='fixit'
   [caches.images]
     dir = ':cacheDir/images'
 
-[menu]
-  [[menu.main]]
+[menus]
+  [[menus.main]]
     identifier = "home"
     name = "Home"
     url = "/"
     weight = 1
 
-  [[menu.main]]
+  [[menus.main]]
     identifier = "academics"
     name = "Academics"
     url = "/academics/"
     weight = 2
 
-  [[menu.main]]
+  [[menus.main]]
     identifier = "work-experience"
     name = "Work Experience"
     url = "/work-experience/"
     weight = 3
 
-  [[menu.main]]
+  [[menus.main]]
     identifier = "personal-projects"
     name = "Personal Projects"
     url = "/personal-projects/"
     weight = 4
 
-  [[menu.main]]
+  [[menus.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
     weight = 5
 
-  [[menu.main]]
+  [[menus.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
@@ -50,3 +50,7 @@ theme='fixit'
   _merge = "shallow"
 [taxonomies]
   _merge = "shallow"
+
+[params]
+  [params.list]
+    dateFormat = "2006"
