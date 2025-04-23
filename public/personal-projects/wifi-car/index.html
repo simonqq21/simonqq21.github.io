@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
     <meta name="robots" content="noodp" />
     <title>ESP8266 Based WiFi Controlled Two-Wheeled Car - Simon Que</title><meta name="author" content="">
-<meta name="description" content="Introduction This ESP8266 based WiFi controlled two-wheeled car is a project I created from scratch to familiarize with the ESP8266 microcontroller development.
+<meta name="description" content="Introduction This project is an ESP8266 based WiFi controlled two-wheeled car.
 ">
   <meta itemprop="name" content="ESP8266 Based WiFi Controlled Two-Wheeled Car">
-  <meta itemprop="description" content="Introduction This ESP8266 based WiFi controlled two-wheeled car is a project I created from scratch to familiarize with the ESP8266 microcontroller development.">
+  <meta itemprop="description" content="Introduction This project is an ESP8266 based WiFi controlled two-wheeled car.">
   <meta itemprop="datePublished" content="2024-04-01T11:51:07+08:00">
   <meta itemprop="dateModified" content="2024-04-01T11:51:07+08:00">
-  <meta itemprop="wordCount" content="180"><meta property="og:url" content="http://localhost:1313/personal-projects/wifi-car/">
+  <meta itemprop="wordCount" content="192"><meta property="og:url" content="http://localhost:1313/personal-projects/wifi-car/">
   <meta property="og:site_name" content="Simon Que">
   <meta property="og:title" content="ESP8266 Based WiFi Controlled Two-Wheeled Car">
-  <meta property="og:description" content="Introduction This ESP8266 based WiFi controlled two-wheeled car is a project I created from scratch to familiarize with the ESP8266 microcontroller development.">
+  <meta property="og:description" content="Introduction This project is an ESP8266 based WiFi controlled two-wheeled car.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="personal-projects">
@@ -24,7 +24,7 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="ESP8266 Based WiFi Controlled Two-Wheeled Car">
-  <meta name="twitter:description" content="Introduction This ESP8266 based WiFi controlled two-wheeled car is a project I created from scratch to familiarize with the ESP8266 microcontroller development.">
+  <meta name="twitter:description" content="Introduction This project is an ESP8266 based WiFi controlled two-wheeled car.">
 <meta name="application-name" content="FixIt">
 <meta name="apple-mobile-web-app-title" content="FixIt"><meta name="theme-color" data-light="#f8f8f8" data-dark="#252627" content="#f8f8f8"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -39,7 +39,7 @@
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "http:\/\/localhost:1313\/personal-projects\/wifi-car\/"
-    },"genre": "personal-projects","wordcount":  180 ,
+    },"genre": "personal-projects","wordcount":  192 ,
     "url": "http:\/\/localhost:1313\/personal-projects\/wifi-car\/","datePublished": "2024-04-01T11:51:07+08:00","dateModified": "2024-04-01T11:51:07+08:00","publisher": {
       "@type": "Organization",
       "name": ""},"author": {
@@ -84,8 +84,25 @@
   <a href="#introduction" class="heading-mark">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
-</h2><p>This ESP8266 based WiFi controlled two-wheeled car is a project I created from scratch to familiarize with the ESP8266 microcontroller development.</p>
-<p>The project consists of a two-motored, two-wheeled car platform controlled by an ESP8266 microcontroller, which facilitates the movement of the car, switching miscellaneous electronics such as LEDs and a buzzer, serving a WiFi hotspot for clients to connect to, serving the user interface webpage to the browsers of connected devices, handling real-time websocket communication, and taking readings from the ultrasonic sensor. Once the car is powered on by connecting the battery pack connector, the ESP8266 serves an open WiFi hotspot for client devices such as mobile and desktop devices to connect. Once a client device connects to the ESP8266, the user interface can be accessed on the browser of the connected device.</p>
+</h2><p>This project is an ESP8266 based WiFi controlled two-wheeled car.</p>
+<h2 id="rationale" class="heading-element"><span>Rationale</span>
+  <a href="#rationale" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>I worked on this ESP8266 based WiFi controlled two-wheeled car to familiarize with ESP8266 microcontroller development.</p>
+<h2 id="features" class="heading-element"><span>Features</span>
+  <a href="#features" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><h2 id="current-status" class="heading-element"><span>Current Status</span>
+  <a href="#current-status" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><h2 id="related-blog-posts" class="heading-element"><span>Related Blog Posts</span>
+  <a href="#related-blog-posts" class="heading-mark">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
+  </a>
+</h2><p>The project consists of a two-motored, two-wheeled car platform controlled by an ESP8266 microcontroller, which facilitates the movement of the car, switching miscellaneous electronics such as LEDs and a buzzer, serving a WiFi hotspot for clients to connect to, serving the user interface webpage to the browsers of connected devices, handling real-time websocket communication, and taking readings from the ultrasonic sensor. Once the car is powered on by connecting the battery pack connector, the ESP8266 serves an open WiFi hotspot for client devices such as mobile and desktop devices to connect. Once a client device connects to the ESP8266, the user interface can be accessed on the browser of the connected device.</p>
 <p>and its WiFi stack, realtime websocket communication, ESP8266 HTTP webserver, basic front-end web development with HTML, CSS, and Javascript, and creating a simple mobile robot with a body, motors and motor controllers, battery packs, microcontroller, remote control system, sensors, and miscellaneous electronics like LEDs and buzzers.</p>
 </div></article></main><footer class="footer">
     <div class="footer-container"><div class="footer-line powered">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreferrer" title="Hugo 0.146.7"><img class="hugo-icon" src="/images/hugo.min.svg" alt="Hugo logo" /> Hugo</a> | Theme - <a href="https://github.com/hugo-fixit/FixIt" target="_blank" rel="external" title="FixIt v0.3.20-e62c0f24"><img class="fixit-icon" src="/images/fixit.min.svg" alt="FixIt logo" /> FixIt</a>
