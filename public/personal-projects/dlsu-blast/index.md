@@ -1,7 +1,7 @@
-# DLSU Intelligent Biological Agricultural (BLAST)
+# DLSU Intelligent Biological and Agricultural Systems (BLAST)
 
 
-DLSU Blast is
+DLSU BLAST is a system that collects 
 
 
 ---
