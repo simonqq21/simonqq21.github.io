@@ -1,12 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simon Que</title>
+    <title>About Me on Simon Que</title>
     <link>http://localhost:1313/</link>
-    <description>Simon Que</description>
-    <generator>Hugo 0.146.7 &amp; FixIt v0.3.20-e62c0f24</generator>
+    <description>Recent content in About Me on Simon Que</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 01:22:16 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 02 Apr 2025 01:22:16 +0800</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact me at:&#xA;Mobile phone: +639608407980&#xA;Email: &lt;a href=&#34;mailto:ques86225@gmail.com&#34;&gt;ques86225@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thesis</title>
+      <link>http://localhost:1313/personal-projects/thesis/</link>
+      <pubDate>Tue, 01 Apr 2025 11:51:57 +0800</pubDate>
+      <guid>http://localhost:1313/personal-projects/thesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wifi Irrigation Controller</title>
+      <link>http://localhost:1313/personal-projects/wifi-irrigation-controller/</link>
+      <pubDate>Tue, 01 Apr 2025 11:51:40 +0800</pubDate>
+      <guid>http://localhost:1313/personal-projects/wifi-irrigation-controller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart Wifi Relay</title>
+      <link>http://localhost:1313/personal-projects/smart-wifi-relay/</link>
+      <pubDate>Tue, 01 Apr 2025 11:51:25 +0800</pubDate>
+      <guid>http://localhost:1313/personal-projects/smart-wifi-relay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C</title>
+      <link>http://localhost:1313/blog/c/</link>
+      <pubDate>Tue, 25 Feb 2025 08:46:21 +0800</pubDate>
+      <guid>http://localhost:1313/blog/c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>B</title>
+      <link>http://localhost:1313/blog/b/</link>
+      <pubDate>Tue, 25 Feb 2025 08:46:18 +0800</pubDate>
+      <guid>http://localhost:1313/blog/b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A</title>
+      <link>http://localhost:1313/blog/a/</link>
+      <pubDate>Tue, 25 Feb 2025 08:46:08 +0800</pubDate>
+      <guid>http://localhost:1313/blog/a/</guid>
+      <description>This is a short summary of &amp;lsquo;a&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Centralized Bicycle Light</title>
+      <link>http://localhost:1313/personal-projects/centralized-bicycle-light/</link>
+      <pubDate>Mon, 24 Feb 2025 13:52:13 +0800</pubDate>
+      <guid>http://localhost:1313/personal-projects/centralized-bicycle-light/</guid>
+      <description>This is my bike light. It is very bright and lasts very long. Other road users can now see me easier lol</description>
+    </item>
+    <item>
+      <title>Mobility Vision Plus</title>
+      <link>http://localhost:1313/work-experience/movi/</link>
+      <pubDate>Wed, 15 Jan 2025 11:49:53 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/movi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tentative Graduate Studies</title>
+      <link>http://localhost:1313/academics/proposed_graduate/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/proposed_graduate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ESP8266 Based WiFi Controlled Two-Wheeled Car</title>
+      <link>http://localhost:1313/personal-projects/wifi-car/</link>
+      <pubDate>Mon, 01 Apr 2024 11:51:07 +0800</pubDate>
+      <guid>http://localhost:1313/personal-projects/wifi-car/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;This ESP8266 based WiFi controlled two-wheeled car consists of a two-motored, two-wheeled car platform controlled by an ESP8266 microcontroller. Client devices such as mobile and desktop devices can be connected to the ESP8266&amp;rsquo;s WiFi hotspot so that the user can view the status of the different parts of the car and control the movement and state of the car via the web browser on the connected device.&lt;/p&gt;&#xA;&lt;h1 id=&#34;rationale&#34;&gt;Rationale&lt;/h1&gt;&#xA;&lt;p&gt;I created and worked on this ESP8266 based WiFi controlled two-wheeled car first and foremost because I have always wanted to design and create my own RC vehicle ever since with mechanical components, electronics components, and code. With the popularity of WiFi-equipped microcontrollers such as the ESP8266 and smartphones, I found this project to be a good starting point to familiarize with ESP8266 microcontroller development in the Arduino platform. Specifically, I wanted to learn the multiple technologies, frameworks, and languages that I need to integrate when creating a simple RC car system. Some of the topics I learned and applied are the ESP8266 microcontroller and its WiFi stack, realtime websocket communication, HTTP webserver, basic front-end web development, and creating a simple mobile robot with a body, motors and motor controllers, battery packs, microcontroller, remote control system, sensors, and miscellaneous electronics like LEDs and buzzers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rooftop BIM Hong Kong</title>
+      <link>http://localhost:1313/work-experience/rtbim/</link>
+      <pubDate>Mon, 01 Apr 2024 11:49:43 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/rtbim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT)</title>
+      <link>http://localhost:1313/work-experience/ibeht/</link>
+      <pubDate>Fri, 01 Sep 2023 11:49:48 +0800</pubDate>
+      <guid>http://localhost:1313/work-experience/ibeht/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DLSU Intelligent Biological and Agricultural Systems (BLAST)</title>
+      <link>http://localhost:1313/personal-projects/dlsu-blast/</link>
+      <pubDate>Fri, 01 Apr 2022 11:52:03 +0800</pubDate>
+      <guid>http://localhost:1313/personal-projects/dlsu-blast/</guid>
+      <description>&lt;p&gt;DLSU BLAST is a system that collects&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Undergraduate Studies</title>
+      <link>http://localhost:1313/academics/undergraduate/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/undergraduate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Senior High School</title>
+      <link>http://localhost:1313/academics/senior_high_school/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academics/senior_high_school/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

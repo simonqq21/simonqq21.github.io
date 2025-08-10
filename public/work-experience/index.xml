@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work Experience - Simon Que</title>
+    <title>Work Experience on Simon Que</title>
     <link>http://localhost:1313/work-experience/</link>
-    <description>Simon Que</description>
-    <generator>Hugo 0.146.7 &amp; FixIt v0.3.20-e62c0f24</generator>
+    <description>Recent content in Work Experience on Simon Que</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jan 2025 11:49:53 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/work-experience/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>http://localhost:1313/work-experience/movi/</link>
       <pubDate>Wed, 15 Jan 2025 11:49:53 +0800</pubDate>
       <guid>http://localhost:1313/work-experience/movi/</guid>
-      <description>Mobility Vision Plus</description>
+      <description></description>
     </item>
     <item>
       <title>Rooftop BIM Hong Kong</title>
       <link>http://localhost:1313/work-experience/rtbim/</link>
       <pubDate>Mon, 01 Apr 2024 11:49:43 +0800</pubDate>
       <guid>http://localhost:1313/work-experience/rtbim/</guid>
-      <description>Rooftop BIM Hong Kong</description>
+      <description></description>
     </item>
     <item>
       <title>DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT)</title>
       <link>http://localhost:1313/work-experience/ibeht/</link>
       <pubDate>Fri, 01 Sep 2023 11:49:48 +0800</pubDate>
       <guid>http://localhost:1313/work-experience/ibeht/</guid>
-      <description>DLSU Institute for Biomedical Engineering and Healthcare Technologies (IBEHT)</description>
+      <description></description>
     </item>
   </channel>
 </rss>

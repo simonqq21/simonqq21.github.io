@@ -1,0 +1,30 @@
+/* * {
+    color: blue;
+} */
+
+#namebar-div {
+    background-color: #16BA00;
+    padding: 10px;
+    text-align: center;
+}
+
+#navbar-div {
+    background-color: #96FF88;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px 20px;
+    gap: 20px;
+}
+
+#navbar-div a {
+    color: black;
+    text-decoration: none;
+    padding: 8px 16px;     /* space around links */
+    border-radius: 4px;    /* rounded corners */
+    transition: background 0.2s;
+}
+
+#navbar-div a:hover {
+    background-color: #16BA00;
+    color: #fff;
+}
